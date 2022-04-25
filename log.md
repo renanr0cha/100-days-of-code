@@ -24,6 +24,6 @@
 
 **Thoughts:** I felt really good with my skills, didn't had any problem doing the first 2 basics projects. It was a productive sunday!
 
-**Link to work:** I have! And two!
-[freeCodeCamp Survey Form] (https://codepen.io/carlosrenan/pen/QWaROGg)
-[Tribute Page] (https://codepen.io/carlosrenan/pen/LYeoLME)
+**Link to work:** I have! And two!  
+[freeCodeCamp Survey Form](https://codepen.io/carlosrenan/pen/QWaROGg)  
+[Tribute Page](https://codepen.io/carlosrenan/pen/LYeoLME)
