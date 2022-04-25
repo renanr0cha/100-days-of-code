@@ -16,3 +16,14 @@
 **Thoughts:** Following the disastrous ubuntu update, big part of today's schedule was installing things and reconfiguring terminal and git, among other things.
 
 **Link to work:** Not available
+
+
+### Day 3: April 24, 2022
+
+**Today's Progress**: Productive day, made the first 2 freeCodeCamp projects for the Responsive Web Design certification, a lot of HTML and CSS to review.
+
+**Thoughts:** I felt really good with my skills, didn't had any problem doing the first 2 basics projects. It was a productive sunday!
+
+**Link to work:** I have! And two!
+[freeCodeCamp Survey Form] (https://codepen.io/carlosrenan/pen/QWaROGg)
+[Tribute Page] (https://codepen.io/carlosrenan/pen/LYeoLME)
