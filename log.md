@@ -27,3 +27,10 @@
 **Link to work:** I have! And two!  
 [freeCodeCamp Survey Form](https://codepen.io/carlosrenan/pen/QWaROGg)  
 [Tribute Page](https://codepen.io/carlosrenan/pen/LYeoLME)
+
+
+### Day 4: April 25, 2022
+
+**Today's Progress**: Day with lots of non-coding things to do, but I squeezed an hour of coding before laying to sleep. Started building an Pomodoro Timer with HTML, CSS and JS. More about this project in the coming days.
+
+**Thoughts:** Nothing really, an allergy hit me at dawn, and I took an medicine that puts me to bed in no time, I'm already sleepwalking. See ya tomorrow, gotta sleep!
