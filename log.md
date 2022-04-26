@@ -34,3 +34,12 @@
 **Today's Progress**: Day with lots of non-coding things to do, but I squeezed an hour of coding before laying to sleep. Started building an Pomodoro Timer with HTML, CSS and JS. More about this project in the coming days.
 
 **Thoughts:** Nothing really, an allergy hit me at dawn, and I took an medicine that puts me to bed in no time, I'm already sleepwalking. See ya tomorrow, gotta sleep!
+
+
+### Day 5: April 26, 2022
+
+**Today's Progress**: I coded a lot in between tasks at work, managed to finish the 3rd freeCodeCamp Project. Link Below! (still missing some things, like animations or proper responsiveness).
+
+**Thoughts:** I put off the project I started yesterday because I forgot to commit from home to continue from work! haha
+
+**Link to work:** [freeCodeCamp Landing Page](https://codepen.io/carlosrenan/full/mdpZYMj)  
