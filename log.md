@@ -43,3 +43,9 @@
 **Thoughts:** I put off the project I started yesterday because I forgot to commit from home to continue from work! haha
 
 **Link to work:** [freeCodeCamp Landing Page](https://codepen.io/carlosrenan/full/mdpZYMj)  
+
+### Day 6: April 27, 2022
+
+**Today's Progress**: A lot of JS study today, I coded less, but learned a lot.
+
+**Thoughts:** I had problems sleeping the last few days, so today I tried not to drink any coffee in the afternoon, and I guess it worked! Gonna get a decaf tomorrow.
