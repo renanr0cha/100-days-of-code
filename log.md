@@ -49,3 +49,12 @@
 **Today's Progress**: A lot of JS study today, I coded less, but learned a lot.
 
 **Thoughts:** I had problems sleeping the last few days, so today I tried not to drink any coffee in the afternoon, and I guess it worked! Gonna get a decaf tomorrow.
+
+
+### Day 7: April 28, 2022
+
+**Today's Progress**: Today I get an old Rock Paper Scissors project that I made a couple of years ago, and started refactoring. A lot of work. The good thing is that I could see how much I've improved. I fixed a lot of things, and tomorrow I'll try to refactor to what I studied today.
+
+**Thoughts:** Today was very demanding for my brain. I had the first contact with Factories, Declarative Programming, ES6 Modules.
+
+**Link to work:**(not finished) [Rock Paper Scissors](https://renanrochadev.github.io/rock-paper-scissors/)  
