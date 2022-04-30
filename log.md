@@ -58,3 +58,10 @@
 **Thoughts:** Today was very demanding for my brain. I had the first contact with Factories, Declarative Programming, ES6 Modules.
 
 **Link to work:**(not finished) [Rock Paper Scissors](https://renanrochadev.github.io/rock-paper-scissors/)  
+
+
+### Day 8: April 29, 2022
+
+**Today's Progress**: Did my first factory, and got the seconds countdown working. Not much time to code today.
+
+**Thoughts:** I'm not really well today, but the #100DaysOfCode made me code today, thanks for that.
