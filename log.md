@@ -72,3 +72,10 @@
 **Today's Progress**: I managed to squeeze a little bit of code at the end of the day, but forgot to update here! initial logic of the Pomo Focus Timer done. Tomorrow (or today?), begin refactoring.
 
 **Thoughts:** The reason I forgot was that after I coded, I lay down to take a nap. This nap transformed in a deep sleep of which I only wake up today!
+
+
+### Day 10: May 1, 2022
+
+**Today's Progress**: A day with a lot of revision and practice of ES6 modules, refactoring Pomo Focus Timer.
+
+**Thoughts:** A very good day in general, I managed to rest well and prepare for the week ahead! 10% done!
