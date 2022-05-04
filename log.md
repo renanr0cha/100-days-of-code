@@ -79,3 +79,11 @@
 **Today's Progress**: A day with a lot of revision and practice of ES6 modules, refactoring Pomo Focus Timer.
 
 **Thoughts:** A very good day in general, I managed to rest well and prepare for the week ahead! 10% done!
+
+
+### Day 11: May 3, 2022
+
+**Today's Progress**: This week will be focused in build the project of the #NextLevelWeekReturn from @Rocketseat.
+
+**Thoughts:** The day before When I sat down on my chair to code, a blackout ocurred! From 20:30 to 2:40 without electricity, but today I compensate and done a lot of work!
+
