@@ -87,3 +87,9 @@
 
 **Thoughts:** The day before When I sat down on my chair to code, a blackout ocurred! From 20:30 to 2:40 without electricity, but today I compensate and done a lot of work!
 
+
+### Day 12: May 4, 2022
+
+**Today's Progress**: Finished the 2nd day of the #NextLevelWeek. Plenty of new front-end concepts and tips.
+
+**Thoughts:** Today I coded only the required. French class and Dr Strange 2 in the same day left me almost out of free time.
