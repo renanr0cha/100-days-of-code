@@ -93,3 +93,12 @@
 **Today's Progress**: Finished the 2nd day of the #NextLevelWeek. Plenty of new front-end concepts and tips.
 
 **Thoughts:** Today I coded only the required. French class and Dr Strange 2 in the same day left me almost out of free time.
+
+
+### Day 13: May 5, 2022
+
+**Today's Progress**: Finished the 3rd day of the #NextLevelWeek. A lot of CSS bug fix, with a little bit of HTML and JS for now.
+
+**Thoughts:** I'm happy with the time I put into coding today, and with the problems that I was able to solve, using analytic view, think and testing until I realized what was wrong.
+
+**Link to work:** [DoctorCare (Mobile only version)](https://renanrochadev.github.io/landing-page-nlw5/)  
