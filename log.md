@@ -101,4 +101,11 @@
 
 **Thoughts:** I'm happy with the time I put into coding today, and with the problems that I was able to solve, using analytic view, think and testing until I realized what was wrong.
 
-**Link to work:** [DoctorCare (Mobile only version)](https://renanrochadev.github.io/landing-page-nlw5/)  
+**Link to work:** [DoctorCare (Mobile only version)](https://renanrochadev.github.io/landing-page-nlw5/)
+
+
+### Day 14: May 6, 2022
+
+**Today's Progress**: Didn't had time to finish the 4th day of #NLW, but managed to study a lot of JS.
+
+**Thoughts:** Busy day, couldn't code as much as I wanted, but at lunch I did my daily goal.
