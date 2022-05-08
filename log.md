@@ -109,3 +109,12 @@
 **Today's Progress**: Didn't had time to finish the 4th day of #NLW, but managed to study a lot of JS.
 
 **Thoughts:** Busy day, couldn't code as much as I wanted, but at lunch I did my daily goal.
+
+
+### Day 15: May 7, 2022
+
+**Today's Progress**: Today I did days 4 and 5 of #NLW. Very nice project and a lot of tips and tricks of HTML, CSS and JS/
+
+**Thoughts:** I compensated the days without much time and today I could dedicate myself to coding. It was very good!
+
+**Link to work:** [DoctorCare (Desktop version ready)](https://renanrochadev.github.io/landing-page-nlw5/)
