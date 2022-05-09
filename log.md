@@ -125,3 +125,12 @@
 **Today's Progress**: Day of resting, I used this to study JS and prepare myself to focus on that this week. Will be JS Week!
 
 **Thoughts:** Happy mother's day to every mother out there, we're nothing without you.
+
+
+### Day 17: May 9, 2022
+
+**Today's Progress**: Made a lot of factories, dependency injection and debuggind of Pomo Focus Timer!
+
+**Thoughts:** Today I try too hard some bugfix and refactoring. I have to stay alert to not overdo. Sometimes it's better to take a step back and come back later.
+
+**Link to work:** [Pomo Focus Timer](https://renanrochadev.github.io/pomo-focus-timer/)
