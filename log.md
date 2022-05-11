@@ -134,3 +134,10 @@
 **Thoughts:** Today I try too hard some bugfix and refactoring. I have to stay alert to not overdo. Sometimes it's better to take a step back and come back later.
 
 **Link to work:** [Pomo Focus Timer](https://renanrochadev.github.io/pomo-focus-timer/)
+
+
+### Day 18: May 11, 2022
+
+**Today's Progress**: Not much progress, I got sick yesterday, didn't manage to code at all. Working on the Pomo Focus 2.0, with individual buttons for bg sounds.
+
+**Thoughts:** I got a really heavy virus yesterday, I'm still not 100%, maybe 60%.
