@@ -141,3 +141,10 @@
 **Today's Progress**: Not much progress, I got sick yesterday, didn't manage to code at all. Working on the Pomo Focus 2.0, with individual buttons for bg sounds.
 
 **Thoughts:** I got a really heavy virus yesterday, I'm still not 100%, maybe 60%.
+
+
+### Day 19: May 12, 2022
+
+**Today's Progress**: I spend half an hour constructing a function to get an array of elements of a class and identify which one is and add the hover color to it when clicked. And the rest was with css.
+
+**Thoughts:** It was very satisfying getting the function right only on my research, it took a little while but I did it!
