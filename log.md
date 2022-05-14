@@ -148,3 +148,10 @@
 **Today's Progress**: I spend half an hour constructing a function to get an array of elements of a class and identify which one is and add the hover color to it when clicked. And the rest was with css.
 
 **Thoughts:** It was very satisfying getting the function right only on my research, it took a little while but I did it!
+
+
+### Day 20: May 13, 2022
+
+**Today's Progress**: Very good day of coding. Finished beta of PomoFocusTimer2.0. With differents bg audios and option to add/remove minutes on the go.
+
+**Thoughts:** I had a full night to work in this, very happy that I found the time!
