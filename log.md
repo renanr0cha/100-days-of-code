@@ -155,3 +155,11 @@
 **Today's Progress**: Very good day of coding. Finished beta of PomoFocusTimer2.0. With differents bg audios and option to add/remove minutes on the go.
 
 **Thoughts:** I had a full night to work in this, very happy that I found the time!
+
+
+### Day 21: May 15, 2022
+
+**Today's Progress**: Day of mainly resting. But I bugfixed Pomo Focus Timer 2.0 Beta. Link below
+
+**Thoughts:** I took a day off yesterday because it was my baby's shower. Sorry guys!
+**Link to work:** [Pomo Focus Timer 2.0 Beta](https://renanrochadev.github.io/pomo-focus-timer/)
