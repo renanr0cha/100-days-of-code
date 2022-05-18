@@ -170,3 +170,10 @@
 **Today's Progress**: Studied SPAs and coded an example page html only.
 
 **Thoughts:** Today was full of new concepts and ways of thinking JS and web development. Very nice!
+
+
+### Day 23: May 17, 2022
+
+**Today's Progress**: Began development of an SPA application with use of API to mark favorite Github users.
+
+**Thoughts:** Still wrapping my head around the concepts from yesterday, putting then to use and practicing.
