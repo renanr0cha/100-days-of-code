@@ -163,3 +163,10 @@
 
 **Thoughts:** I took a day off yesterday because it was my baby's shower. Sorry guys!
 **Link to work:** [Pomo Focus Timer 2.0 Beta](https://renanrochadev.github.io/pomo-focus-timer/)
+
+
+### Day 22: May 16, 2022
+
+**Today's Progress**: Studied SPAs and coded an example page html only.
+
+**Thoughts:** Today was full of new concepts and ways of thinking JS and web development. Very nice!
