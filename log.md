@@ -177,3 +177,10 @@
 **Today's Progress**: Began development of an SPA application with use of API to mark favorite Github users.
 
 **Thoughts:** Still wrapping my head around the concepts from yesterday, putting then to use and practicing.
+
+
+### Day 24: May 18, 2022
+
+**Today's Progress**: Working on update, load, delete functions and API access to Github-favorites.
+
+**Thoughts:** A lot of new concepts to learn, gotta practice and read about then a lot to internalize.
