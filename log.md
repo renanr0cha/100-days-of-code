@@ -184,3 +184,10 @@
 **Today's Progress**: Working on update, load, delete functions and API access to Github-favorites.
 
 **Thoughts:** A lot of new concepts to learn, gotta practice and read about then a lot to internalize.
+
+
+### Day 25: May 19, 2022
+
+**Today's Progress**: Updated Github favorites to update de UI of the page, and also studied error treatment.
+
+**Thoughts:** With a little bit of practice everyday some things are starting to make sense!
