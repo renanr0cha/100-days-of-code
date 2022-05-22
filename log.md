@@ -191,3 +191,10 @@
 **Today's Progress**: Updated Github favorites to update de UI of the page, and also studied error treatment.
 
 **Thoughts:** With a little bit of practice everyday some things are starting to make sense!
+
+
+### Day 26: May 20, 2022
+
+**Today's Progress**: Finished the beta version of GitHub-Favorites, with API fetch from Github and save/delete error treatment in place.
+
+**Thoughts:** A lot of things that I don´t fully understand yet, but that makes sense in the scale of the project.
