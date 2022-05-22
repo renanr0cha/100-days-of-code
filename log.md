@@ -198,3 +198,10 @@
 **Today's Progress**: Finished the beta version of GitHub-Favorites, with API fetch from Github and save/delete error treatment in place.
 
 **Thoughts:** A lot of things that I don´t fully understand yet, but that makes sense in the scale of the project.
+
+
+### Day 27: May 21, 2022
+
+**Today's Progress**: Got back to the Pomo Focus Timer, to use input range as volume slider and do a dark and clear theme with a swith to change between them.
+
+**Thoughts:** Had to redo a lot of the logic behind the buttons and elements, but the timer portion stayed the same, and modularize the different portions of the project made a lot easier to change something without affecting the whole project. 
