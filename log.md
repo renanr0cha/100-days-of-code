@@ -57,7 +57,7 @@
 
 **Thoughts:** Today was very demanding for my brain. I had the first contact with Factories, Declarative Programming, ES6 Modules.
 
-**Link to work:**(not finished) [Rock Paper Scissors](https://renanrochadev.github.io/rock-paper-scissors/)  
+**Link to work:**(not finished) [Rock Paper Scissors](https://renanr0cha.github.io/rock-paper-scissors/)  
 
 
 ### Day 8: April 29, 2022
@@ -101,7 +101,7 @@
 
 **Thoughts:** I'm happy with the time I put into coding today, and with the problems that I was able to solve, using analytic view, think and testing until I realized what was wrong.
 
-**Link to work:** [DoctorCare (Mobile only version)](https://renanrochadev.github.io/landing-page-nlw5/)
+**Link to work:** [DoctorCare (Mobile only version)](https://renanr0cha.github.io/landing-page-nlw5/)
 
 
 ### Day 14: May 6, 2022
@@ -117,7 +117,7 @@
 
 **Thoughts:** I compensated the days without much time and today I could dedicate myself to coding. It was very good!
 
-**Link to work:** [DoctorCare (Desktop version ready)](https://renanrochadev.github.io/landing-page-nlw5/)
+**Link to work:** [DoctorCare (Desktop version ready)](https://renanr0cha.github.io/landing-page-nlw5/)
 
 
 ### Day 16: May 8, 2022
@@ -133,7 +133,7 @@
 
 **Thoughts:** Today I try too hard some bugfix and refactoring. I have to stay alert to not overdo. Sometimes it's better to take a step back and come back later.
 
-**Link to work:** [Pomo Focus Timer](https://renanrochadev.github.io/pomo-focus-timer/)
+**Link to work:** [Pomo Focus Timer](https://renanr0cha.github.io/pomo-focus-timer/)
 
 
 ### Day 18: May 11, 2022
@@ -162,7 +162,7 @@
 **Today's Progress**: Day of mainly resting. But I bugfixed Pomo Focus Timer 2.0 Beta. Link below
 
 **Thoughts:** I took a day off yesterday because it was my baby's shower. Sorry guys!
-**Link to work:** [Pomo Focus Timer 2.0 Beta](https://renanrochadev.github.io/pomo-focus-timer/)
+**Link to work:** [Pomo Focus Timer 2.0 Beta](https://renanr0cha.github.io/pomo-focus-timer/)
 
 
 ### Day 22: May 16, 2022
@@ -205,3 +205,12 @@
 **Today's Progress**: Got back to the Pomo Focus Timer, to use input range as volume slider and do a dark and clear theme with a swith to change between them.
 
 **Thoughts:** Had to redo a lot of the logic behind the buttons and elements, but the timer portion stayed the same, and modularize the different portions of the project made a lot easier to change something without affecting the whole project. 
+
+
+### Day 28: May 22, 2022
+
+**Today's Progress**: Finished challenges on PomoFocusTimer, separate audio sliders for volume control of each sound, and dark mode.
+
+**Thoughts:** What I was doing before was very complicated, I simplified a lot of the code doing most of the styling through css only, saving a few for Javascript, it's a lot better now, and more modularized.
+
+**Link to work:** [Pomo Focus Timer 2.0](https://renanr0cha.github.io/pomo-focus-timer/)
