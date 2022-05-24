@@ -214,3 +214,11 @@
 **Thoughts:** What I was doing before was very complicated, I simplified a lot of the code doing most of the styling through css only, saving a few for Javascript, it's a lot better now, and more modularized.
 
 **Link to work:** [Pomo Focus Timer 2.0](https://renanr0cha.github.io/pomo-focus-timer/)
+
+
+
+### Day 29: May 23, 2022
+
+**Today's Progress**: Returned to studying SPAs, with a new simple project of a few pages in a SPA with informations about the universe.
+
+**Thoughts:** I try to study subjects one time, and then after a few days again, to help fixate the subject better, and learn indeed.
