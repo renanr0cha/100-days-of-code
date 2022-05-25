@@ -222,3 +222,11 @@
 **Today's Progress**: Returned to studying SPAs, with a new simple project of a few pages in a SPA with informations about the universe.
 
 **Thoughts:** I try to study subjects one time, and then after a few days again, to help fixate the subject better, and learn indeed.
+
+
+
+### Day 30: May 24, 2022
+
+**Today's Progress**: Finished the beta version of the SPA about the Universe, with css styles and logic done.
+
+**Thoughts:** I've felt very nice studying SPAs, because I could see my growth in JS.
