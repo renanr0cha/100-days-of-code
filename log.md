@@ -230,3 +230,10 @@
 **Today's Progress**: Finished the beta version of the SPA about the Universe, with css styles and logic done.
 
 **Thoughts:** I've felt very nice studying SPAs, because I could see my growth in JS.
+
+
+### Day 31: May 25, 2022
+
+**Today's Progress**: Studied more of classes, to improve the beta version of GitHub Favorites that I did some days ago.
+
+**Thoughts:** Not much time to study today, but I managed to squeeze an couple of hours in between jobs.
