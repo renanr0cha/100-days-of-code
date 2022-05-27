@@ -236,4 +236,11 @@
 
 **Today's Progress**: Studied more of classes, to improve the beta version of GitHub Favorites that I did some days ago.
 
-**Thoughts:** Not much time to study today, but I managed to squeeze an couple of hours in between jobs.
+**Thoughts:** Not much time to study today, but I managed to squeeze a couple of hours in between jobs.
+
+
+### Day 32: May 26, 2022
+
+**Today's Progress**: Begin the revamp of Github Favorites style.
+
+**Thoughts:** Today I got beaten really hard by stylization of tables in css. Reminded me when I started. Definitely have to study more of that.
