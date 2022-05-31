@@ -244,3 +244,10 @@
 **Today's Progress**: Begin the revamp of Github Favorites style.
 
 **Thoughts:** Today I got beaten really hard by stylization of tables in css. Reminded me when I started. Definitely have to study more of that.
+
+
+### Day 33: May 30, 2022
+
+**Today's Progress**: Finished restyling of Github Favorites. I now know that I hate styling HTML Tables
+
+**Thoughts:** I got stuck really hard in HTML Tables styling I'll mark this subject to study more.
