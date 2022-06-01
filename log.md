@@ -251,3 +251,10 @@
 **Today's Progress**: Finished restyling of Github Favorites. I now know that I hate styling HTML Tables
 
 **Thoughts:** I got stuck really hard in HTML Tables styling I'll mark this subject to study more.
+
+
+### Day 34: May 31, 2022
+
+**Today's Progress**: Bugfixes in Github Favorites and SPA Universe, some features that were missing were done.
+
+**Thoughts:** Tomorrow I'm gonna start diving into APIs and ReactJS, felling anxious.
