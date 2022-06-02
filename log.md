@@ -258,3 +258,10 @@
 **Today's Progress**: Bugfixes in Github Favorites and SPA Universe, some features that were missing were done.
 
 **Thoughts:** Tomorrow I'm gonna start diving into APIs and ReactJS, felling anxious.
+
+
+### Day 35: June 1, 2022
+
+**Today's Progress**: Begin my studies in NodeJS, Express and creation of APIs, Middleware, HTTP Codes and Methods, and a lot of other things.
+
+**Thoughts:** So far so good, I had to get a notebook to write a lot of new ideas and concepts that I have learned.
