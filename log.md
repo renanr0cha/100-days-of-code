@@ -264,4 +264,9 @@
 
 **Today's Progress**: Begin my studies in NodeJS, Express and creation of APIs, Middleware, HTTP Codes and Methods, and a lot of other things.
 
-**Thoughts:** So far so good, I had to get a notebook to write a lot of new ideas and concepts that I have learned.
+
+### Day 36: June 2, 2022
+
+**Today's Progress**: Today was dedicated to Databases, SQL and CRUD. In the meantime, while studying, building an Notes App with the teachings.
+
+**Thoughts:** I already knew some things, but it is always good to remember.
