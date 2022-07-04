@@ -270,3 +270,11 @@
 **Today's Progress**: Today was dedicated to Databases, SQL and CRUD. In the meantime, while studying, building an Notes App with the teachings.
 
 **Thoughts:** I already knew some things, but it is always good to remember.
+
+
+### Day 1: July 4, 2022
+
+**Today's Progress**: Began buildingan API project about movie rating! Build the folder structure, and put the server on with NodeJS and Express.
+
+**Thoughts:** Restarting after one month away due to the birth of my first child! No worries, I'm happy to restart, and follow the rules of the initiative.
+
