@@ -278,3 +278,9 @@
 
 **Thoughts:** Restarting after one month away due to the birth of my first child! No worries, I'm happy to restart, and follow the rules of the initiative.
 
+
+### Day 2: July 5, 2022
+
+**Today's Progress**: Done Controllers and Routes, imported knex and organized the migrations, db, made the first method of the movie and the user, create.
+
+**Thoughts:** I don't have any previous experience with NodeJS and API building, only SQL and DBs, so a lot of new things to work with, but supported by some previous knowledge of how the insides work.
