@@ -284,3 +284,10 @@
 **Today's Progress**: Done Controllers and Routes, imported knex and organized the migrations, db, made the first method of the movie and the user, create.
 
 **Thoughts:** I don't have any previous experience with NodeJS and API building, only SQL and DBs, so a lot of new things to work with, but supported by some previous knowledge of how the insides work.
+
+
+### Day 3: July 6, 2022
+
+**Today's Progress**: Worked on methods to the movies, users and tags controllers, adding filter options to movies. Also adjusted some commands of the database.
+
+**Thoughts:** On the finish line to temporary finish the API, is comming along very well.
