@@ -297,3 +297,10 @@
 **Today's Progress**: Finished controllers necessary for v1 of API.
 
 **Thoughts:** Little time to code, but I managed to do it.
+
+
+### Day 5: July 8, 2022
+
+**Today's Progress**: Began learning ReactJS, and the first project also started development. But I focused on the "how it works" before jumping into it.
+
+**Thoughts:** I have a feeling that my work in continuously studying ES6 a month ago will pay off here, a lot of things relating.
