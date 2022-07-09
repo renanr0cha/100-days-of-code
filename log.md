@@ -291,3 +291,9 @@
 **Today's Progress**: Worked on methods to the movies, users and tags controllers, adding filter options to movies. Also adjusted some commands of the database.
 
 **Thoughts:** On the finish line to temporary finish the API, is comming along very well.
+
+### Day 4: July 7, 2022
+
+**Today's Progress**: Finished controllers necessary for v1 of API.
+
+**Thoughts:** Little time to code, but I managed to do it.
