@@ -311,3 +311,10 @@
 **Today's Progress**: Continued development on ReactJS project, using components to build an Notes App (Front-end to the API built last week).
 
 **Thoughts:** React is very different from "normal" js, so it takes some time to grasp the meaning of what you're doing when starting out.
+
+
+### Day 7: July 11, 2022
+
+**Today's Progress**: Built Button, Header and Section components, and learn how to import icons from React Icons.
+
+**Thoughts:** With the practice, all is starting to make sense. And Sundays are for my baby girl now, sorry!
