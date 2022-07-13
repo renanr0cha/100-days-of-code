@@ -304,3 +304,10 @@
 **Today's Progress**: Began learning ReactJS, and the first project also started development. But I focused on the "how it works" before jumping into it.
 
 **Thoughts:** I have a feeling that my work in continuously studying ES6 a month ago will pay off here, a lot of things relating.
+
+
+### Day 6: July 9, 2022
+
+**Today's Progress**: Continued development on ReactJS project, using components to build an Notes App (Front-end to the API built last week).
+
+**Thoughts:** React is very different from "normal" js, so it takes some time to grasp the meaning of what you're doing when starting out.
