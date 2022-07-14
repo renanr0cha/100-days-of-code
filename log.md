@@ -318,3 +318,10 @@
 **Today's Progress**: Built Button, Header and Section components, and learn how to import icons from React Icons.
 
 **Thoughts:** With the practice, all is starting to make sense. And Sundays are for my baby girl now, sorry!
+
+
+### Day 8: July 12, 2022
+
+**Today's Progress**: First page completed, with all components ready for reutilization.
+
+**Thoughts:** A lot of repetition helps a lot to absorb the organization and structure that React demands!
