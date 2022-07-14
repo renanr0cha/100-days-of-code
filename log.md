@@ -325,3 +325,10 @@
 **Today's Progress**: First page completed, with all components ready for reutilization.
 
 **Thoughts:** A lot of repetition helps a lot to absorb the organization and structure that React demands!
+
+
+### Day 9: July 13, 2022
+
+**Today's Progress**: Second page, the home, is ready. A lot more components were built for this page, like input and note. 
+
+**Thoughts:** Today I managed to study and code a lot, after a great number of days in a row squeezing some time! I'm very greatful for this day!
