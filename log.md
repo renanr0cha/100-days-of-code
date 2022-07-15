@@ -332,3 +332,10 @@
 **Today's Progress**: Second page, the home, is ready. A lot more components were built for this page, like input and note. 
 
 **Thoughts:** Today I managed to study and code a lot, after a great number of days in a row squeezing some time! I'm very greatful for this day!
+
+
+### Day 10: July 14, 2022
+
+**Today's Progress**: A lot of new pages done today. Profile, SignIn and SignUp.
+
+**Thoughts:** When you get the hang of it things start flowing really quickly. I'm loving it so far.
