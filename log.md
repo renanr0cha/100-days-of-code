@@ -339,3 +339,10 @@
 **Today's Progress**: A lot of new pages done today. Profile, SignIn and SignUp.
 
 **Thoughts:** When you get the hang of it things start flowing really quickly. I'm loving it so far.
+
+
+### Day 11: July 15, 2022
+
+**Today's Progress**: Finished the interface of the app, and put the routes in the pages, splitting into auth routes to signin and signup, and the rest of the pages.
+
+**Thoughts:** Having finished an UI in React, I can say that I felt easier to build in React than with plain HTML and CSS, aside from the Styled components advantages to plain CSS. Great experience
