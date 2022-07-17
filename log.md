@@ -346,3 +346,10 @@
 **Today's Progress**: Finished the interface of the app, and put the routes in the pages, splitting into auth routes to signin and signup, and the rest of the pages.
 
 **Thoughts:** Having finished an UI in React, I can say that I felt easier to build in React than with plain HTML and CSS, aside from the Styled components advantages to plain CSS. Great experience
+
+
+### Day 12: July 16, 2022
+
+**Today's Progress**: Began the project of the week, make a front-end interface to the movies API I did last week. TOday I built the structure, global theme and styles.
+
+**Thoughts:** This is a project a little bigger than the notes, So I expect more difficulty.
