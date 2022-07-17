@@ -353,3 +353,10 @@
 **Today's Progress**: Began the project of the week, make a front-end interface to the movies API I did last week. TOday I built the structure, global theme and styles.
 
 **Thoughts:** This is a project a little bigger than the notes, So I expect more difficulty.
+
+
+### Day 13: July 17, 2022
+
+**Today's Progress**: Built The Home, Sign and Sign up Page, a some other components like the MovieItem, Buttons, Input and Header.
+
+**Thoughts:** So far so good, didn't find any issues (only a scroll that spent a couple of hours trying to make it work, and I did).
