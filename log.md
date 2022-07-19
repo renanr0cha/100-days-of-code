@@ -360,3 +360,10 @@
 **Today's Progress**: Built The Home, Sign and Sign up Page, a some other components like the MovieItem, Buttons, Input and Header.
 
 **Thoughts:** So far so good, didn't find any issues (only a scroll that spent a couple of hours trying to make it work, and I did).
+
+
+### Day 14: July 18, 2022
+
+**Today's Progress**: Built The New Movie page, along with other components like the tag.
+
+**Thoughts:** The most difficult page to built so far, a lot of stylization to be made and new components
