@@ -374,3 +374,10 @@
 **Today's Progress**: Built the Profile page and began working on the Details page, also made the tag chip component.
 
 **Thoughts:** I think maybe I got covid again, I'm worried about my baby girl.
+
+
+### Day 16: July 20, 2022
+
+**Today's Progress**: Finish the details page and also put the navigation and routes of the project, finishing the 1st version of the front-end.
+
+**Thoughts:** No symptoms so far. I wonder if I already have the skills to began searching for entry level jobs.
