@@ -367,3 +367,10 @@
 **Today's Progress**: Built The New Movie page, along with other components like the tag.
 
 **Thoughts:** The most difficult page to built so far, a lot of stylization to be made and new components
+
+
+### Day 15: July 19, 2022
+
+**Today's Progress**: Built the Profile page and began working on the Details page, also made the tag chip component.
+
+**Thoughts:** I think maybe I got covid again, I'm worried about my baby girl.
